@@ -8,6 +8,9 @@ A random number between 19 and 120 is generated at the start of each game. Four 
 
 The app is built with Bootstrap for layout and mobile responsiveness, and JavaScript for functionality.
 
+![iPad Screenshot](assets/images/ipadCC.jpg) 
+![iPhone Screenshot](assets/images/iphoneCC.jpg) 
+
 To view the app, click here: https://sdr2017.github.io/week-4-game/
 
 The crystal graphics are from pixelbuddha.net by Tatiana Lapina.
