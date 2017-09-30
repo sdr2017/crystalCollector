@@ -11,6 +11,6 @@ The app is built with HTML, CSS, Bootstrap for layout and mobile responsiveness,
 
 ![responsive](assets/images/responsive.jpg) 
 
-To view the app, click here: https://sdr2017.github.io/week-4-game/
+To view the app, click here: https://sdr2017.github.io/crystalCollector/
 
 Crystal graphics from www.pixelbuddha.net by Tatiana Lapina. Device mockups from www.pixeden.com
