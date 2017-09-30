@@ -12,4 +12,4 @@ The app is built with Bootstrap for layout and mobile responsiveness, and JavaSc
 
 To view the app, click here: https://sdr2017.github.io/week-4-game/
 
-Crystal graphics from pixelbuddha.net by Tatiana Lapina. Device mockups from www.pixeden.com
+Crystal graphics from www.pixelbuddha.net by Tatiana Lapina. Device mockups from www.pixeden.com
